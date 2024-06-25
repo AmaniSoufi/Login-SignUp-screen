@@ -50,7 +50,7 @@ class _signUpScreenState extends State<signUpScreen> {
             hint: "UserName",
             icon: Icons.person,
           ),
-          SizedBox(height: height * 0.01), //sizdbox
+          SizedBox(height: height * 0.01),
           CustomTextFormFeild(
             hint: "Email",
             icon: Icons.email,
